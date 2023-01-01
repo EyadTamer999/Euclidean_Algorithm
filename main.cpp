@@ -13,6 +13,7 @@ int main() {
     cout << "k = ";
     cin >> k;
 
+
     //we will have a remainder, quotient
     double r = 0;
     double q = 0;
