@@ -1,0 +1,3 @@
+C:/Users/Eyad Tamer/CLionProjects/Euclidean-Algorithm/cmake-build-debug/CMakeFiles/Euclidean_Algorithm.dir
+C:/Users/Eyad Tamer/CLionProjects/Euclidean-Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eyad Tamer/CLionProjects/Euclidean-Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
